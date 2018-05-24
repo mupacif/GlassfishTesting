@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/product-ejb/product-ejb.iml" filepath="$PROJECT_DIR$/product-ejb/product-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-ejb-api/product-ejb-api.iml" filepath="$PROJECT_DIR$/product-ejb-api/product-ejb-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-model/product-model.iml" filepath="$PROJECT_DIR$/product-model/product-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
+    </modules>
+  </component>
+</project>
